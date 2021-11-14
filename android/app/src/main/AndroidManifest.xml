@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.article_feed_onloop_nandish">
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    
    <application
         android:label="article_feed_onloop_nandish"
         android:icon="@mipmap/ic_launcher">
